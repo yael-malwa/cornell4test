@@ -10,6 +10,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+  trailingSlash: true,
   organizationName: 'HiredScore inc.', // Usually your GitHub org/user name.
   projectName: 'cornell', // Usually your repo name.
   themeConfig: {
