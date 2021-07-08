@@ -2,10 +2,14 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
 
+import JBCaptainImageUrl from '../../static/img/jb_captian.png';
+import JBHeroImageUrl from '../../static/img/jb_hero.png';
+import JBRockstarImageUrl from '../../static/img/jb_rockstar.png';
+
 const FeatureList = [
   {
     title: 'Record API Interaction',
-    png: '../../static/img/jb_captian.png',
+    png: JBCaptainImageUrl,
     description: (
       <>
         An HTTP proxy mode in which all interactions are recorded for future use,
@@ -15,7 +19,7 @@ const FeatureList = [
   },
   {
     title: 'Replay for Testing',
-    png: '../../static/img/jb_hero.png',
+    png: JBHeroImageUrl,
     description: (
       <>
         Use the library of "cassetes" to reply pre-recorded responses istead of hitting a real API end point.
@@ -26,7 +30,7 @@ const FeatureList = [
   },
   {
     title: 'Extend Cornell',
-    png: '../../static/img/jb_rockstar.png',
+    png: JBRockstarImageUrl,
     description: (
       <>
         Cornell was designed with flexbility in mind such that it should be easy to customize usage beyond the default behaviors.
