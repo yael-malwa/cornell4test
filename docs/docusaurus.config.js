@@ -6,13 +6,13 @@ module.exports = {
   title: 'Cornell',
   tagline: 'Record & replay mock server',
   url: 'https://hiredscorelabs.github.io/',
-  baseUrl: '/cornell4test/',
+  baseUrl: '/cornell/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   trailingSlash: true,
   organizationName: 'Hiredscorelabs',
-  projectName: 'cornell4test',
+  projectName: 'cornell',
   themeConfig: {
     navbar: {
       title: 'Cornell',

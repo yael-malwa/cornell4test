@@ -51,7 +51,7 @@ will allow you to modify or extend some of the out-of-the-box functionality, at 
  * Replacing default logging service
  * Modifying the listed cassette path (for example, if you prefer not to save your cassettes locally)
 
-List of signal can be found in [cornell/signals.py](https://github.com/hiredscorelabs/cornell4test/blob/master/cornell/signals.py)
+List of signal can be found in [cornell/signals.py](https://github.com/hiredscorelabs/cornell/blob/master/cornell/signals.py)
 
 Example:
 ```python

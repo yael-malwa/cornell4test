@@ -1,6 +1,6 @@
 # Cornell: record & replay mock server
 
-[![Build Status](https://travis-ci.com/hiredscorelabs/cornell4test.svg?branch=master)](https://travis-ci.com/hiredscorelabs/cornell4test)
+[![Build Status](https://travis-ci.com/hiredscorelabs/cornell.svg?branch=master)](https://travis-ci.com/hiredscorelabs/cornell4test)
 
 > Cornell makes it dead simple, via it's record and replay features to perform end-to-end testing in a fast and isolated testing environment.
 
