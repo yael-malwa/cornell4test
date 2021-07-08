@@ -5,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Cornell',
   tagline: 'Record & replay mock server',
-  url: 'https://hiredscorelabs.github.io/cornell/',
-  baseUrl: '/',
+  url: 'https://hiredscorelabs.github.io/',
+  baseUrl: '/cornell/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
